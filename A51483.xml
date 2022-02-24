@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most true relation of the attachment, life, death, and confession of Will. Waller alias Walker, Ward, or Slater, a priest and jesuite, which was hang'd, drawne and quartered at Ty burne, on Munday being the 26 day of Iuly, anno Dom. 1641.  ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51483</idno>
+            <idno type="STC">Wing M2928A</idno>
+            <idno type="STC">ESTC R222702</idno>
+            <idno type="EEBO-CITATION">99833845</idno>
+            <idno type="PROQUEST">99833845</idno>
+            <idno type="VID">38323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2212:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most true relation of the attachment, life, death, and confession of Will. Waller alias Walker, Ward, or Slater, a priest and jesuite, which was hang'd, drawne and quartered at Ty burne, on Munday being the 26 day of Iuly, anno Dom. 1641.  ...</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>With illustration on final page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, d. 1641 --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38323:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>A MOST TRUE RELATION OF The Attachment, Life, Death, and Confeſſion of <hi>Will. Waller,</hi> Alias <hi>Walker, Ward,</hi> or <hi>Slater,</hi> A Prieſt and Jeſuite, which was hang'd, drawne and quartered at Ty<g ref="char:EOLhyphen"/>burne, on <hi>Munday</hi> being the 26 day of <hi>Iuly, Anno Dom.</hi> 1641.</p>
+            <p>For not obeying the Lawes of this our Kingdome, by returning againe after baniſhment, and ſeducing the Kings ſubjects.</p>
+            <p>WITH A DECLARATION of certaine Queſtions, and his Anſwers at Tyburne.</p>
+            <p>Printed in the yeare, 1641.</p>
+            <pb facs="tcp:38323:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:38323:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:38323:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 27 -->
+            <pb facs="tcp:38323:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 27 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38323:4"/>
+            <!-- PDF PAGE 28 -->
+            <pb n="1" facs="tcp:38323:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <head>A Relation of the Attachment, Life, Death, and confeſſion of <hi>Will. Waller,</hi> Alias <hi>Walker, Ward,</hi> or <hi>Slater,</hi> a Prieſt and Jeſuite, which was hang'd, drawne, and quartered at Tyburne, on <hi>Munday</hi> being <date>the 26. day of <hi>July, Anno Dom.</hi> 1641.</date>
+            </head>
+            <p>THis Jeſuit whoſe confeſſion I ſhall now relate unto you, was condemned upon <hi>Saturday</hi> the 24. of <hi>July,</hi> for withſtanding the Kings Pro<g ref="char:EOLhyphen"/>claimation; which was to the effect that by ſuch a day of the moneth they ſhould all leave England; this man and his companion which at this time lyes in Priſon, thinking by obſcurity to follow their owne wayes in ſpite of all commands whatſoever, ſtayd behind, but marke how it fell out; one even<g ref="char:EOLhyphen"/>ing he being walking in the Garden of one, which at this time I will not name, was murmuring to him<g ref="char:EOLhyphen"/>ſelfe. Shall I live cooped up thus? ſhall my ene<g ref="char:EOLhyphen"/>mies live in honour and I in diſgrace? hath Saint <hi>Peter</hi> forgot his accuſtomed goodneſſe, or hath the bleſſed Virgin loſt all her priviledge which once ſhe had to command her ſonne: have I thus long
+<pb n="2" facs="tcp:38323:5"/>
+               <!-- PDF PAGE 29 -->been a faithfull ſonne to <hi>Rome?</hi> or have I ſo often times invoked the Saints to aſſiſt me in the moſt learned latine tongue? have I not made new Saints, and new faſting dayes? Why then doe not any of them in this my adverſity aſſiſt mee? have not croſſes, beads, and crucifixes been alwayes my de<g ref="char:EOLhyphen"/>light; hath not more water been hallowed with this my mouth then by any Jeſuite this day living? Who upon <hi>Aſhwedneſday,</hi> or <hi>Good-Friday</hi> hath been more forward to puniſh offenders then I? who hath kept more commemorations then I? or cauſed more cominations? who hath ſtrived to ſuggeſt more then I? Or who upon their death beds hath turned to <hi>Rome</hi> more then I? when I was Confeſſour to the Lady <hi>Wootton</hi> living in <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> and S. <hi>Auſtins</hi> Monaſtery in <hi>Kent.</hi> Did not I turne her Lord upon his death bed to our Re<g ref="char:EOLhyphen"/>ligion; have not I made the whole Abby like to a ſecond <hi>Rome?</hi> Have not all the Prebends in the Cathedrall there, like damned Heretiques as they were, ſtrived to turne her, to them: And have not my perſwaſions returned her againe? Have I not been alwayes true? accuſe me he that can: and yet are my hayres made gray before my time; I can<g ref="char:EOLhyphen"/>not walke abroad for feare of the Law, which by my Orders, ſhould command; Nay, before my baniſhment was proclaimed, did not each Here<g ref="char:EOLhyphen"/>ticall Vaſſall affront me, either by their words or deeds? by prophaning the ſacred n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of our holy Father the Pope, moſt bleſſed ſaint: <hi>Peters</hi>
+               <pb n="3" facs="tcp:38323:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 29 -->ſucceſſor, I was called Pope <hi>Joanes</hi> diſciple? what ſhe was it was unknowne to all our Order at the firſt; why then ſhould I be branded with her? I ſuffer now, but long I vow not ſo to doe; Ile gaine my liberty, although it be through blood: Kings by my brethren often have murthered been, the Heavens have lent me armes and heart as well as they, and why ſhould I feare to add another part to their Tragedies.</p>
+            <p>Thus to himſelfe was he heard to murmour by an honeſt country-man, who preſently went to a Ju<g ref="char:EOLhyphen"/>ſtice of peace, and accquainted him with what he had heard (from whoſe Clerke this relation came unto me) upon whoſe words he was attached, and ſent unto Newgate; from whence the time being come he was guarded to the common Seſſions-houſe in the <hi>Old Bayly,</hi> belonging to the City; where he was tryed, convicted and condemned; a little before the ſentence of death paſt upon him, he was boaſting to his companion after this man<g ref="char:EOLhyphen"/>ner, Why ſhould we feare death whence I know our meritorious actions will give us life eternall.</p>
+            <p>O vaine and fooliſh man, I feare thy preſumpti<g ref="char:EOLhyphen"/>ous life hath cauſed thy everlaſting death; the death of thy poore ſoule, which was bought at ſo high a rate, the price of it was blood, thy loving and kind Saviours blood; how then can any mortal man me<g ref="char:EOLhyphen"/>rit Heaven by his owne works; which is impoſſible to be attained, but by the meritorious death of our Saviour: but I proceed.</p>
+            <p>
+               <pb n="4" facs="tcp:38323:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 30 -->
+This Jeſuite being condemned upon <hi>Saturday,</hi> on <hi>Munday</hi> following was to dye, and did ſo; but be<g ref="char:EOLhyphen"/>fore he went into the Cart to be carryed to the place of Execution: he made this confeſſion to his Partner (which was condemned alſo, but re<g ref="char:EOLhyphen"/>preived, how long I cannot truely tell) Brother I am now going to that place which will create me a Martyr; I am to dye, and joyfully doe I goe unto it, knowing that I dye a Saint, becauſe I was always true to the Apoſtolicall ſea of <hi>Rome;</hi> as for my pardon, long ſince I had it from our Ghoſtly Fa<g ref="char:EOLhyphen"/>ther, the Pope; which makes me the more willing to dye, inſomuch as I know it to be of ſufficient force to ſave my ſoule.</p>
+            <p>O horrid and blaſphemous words, of a man which as then had not two houres to live!</p>
+            <p>If onely the Lamb of God can take away the ſins of the World, which is Chriſt our Saviour; how can the Pope forgive ſins: but it is manifeſted by Scripture, that the Lamb of God can onely take a<g ref="char:EOLhyphen"/>way the ſins of the World, wherefore the Pope is a deceiver. He bid his friend be conſtant to <hi>Rome;</hi> as he ever was, and to feare death no more then he did; that being ſaid, he was guarded to the Cart, and with a cord bound therein, and comming nigh S. <hi>Pulchres</hi> Church, it is a common uſe, the Bell tol<g ref="char:EOLhyphen"/>ling there, for the ſexton to read a Prayer to thoſe which are to dye, and deſire the ſtanders by, to pray for the ſalvation of their ſoules: This Jeſuite all the while he was praying, ſeemed rather to looke
+<pb n="5" facs="tcp:38323:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 30 -->upon the Dyall to ſee what houre of the day it was, then to marke what the ſexton ſaid: Being come unto Tyburne, the common place of Execution, the Sheriffe asked him what his name was, he an<g ref="char:EOLhyphen"/>ſwered, <hi>Waller,</hi> notwithſtanding he was nick-nam'd by pick-pockets; then did he aske him in what Re<g ref="char:EOLhyphen"/>ligion he dyed, he anſwered, a <hi>Roman Catholique</hi> and a Prieſt; before the Cart was drawne away the Sheriffe bidding him pray, hee turned about and gave money to the people, and then by the help of the Hangman, upon his knees he prayed in Latine and croſſed himſelfe: And ſo he ended his moſt miſerable and (I feare) accurſed life.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:38323:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>
+               <figure>
+                  <figDesc>depiction of a hanged man</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:38323:7"/>
+            <!-- PDF PAGE 31 -->
+            <pb facs="tcp:38323:8"/>
+            <!-- PDF PAGE 32 -->
+            <pb facs="tcp:38323:8" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+         </div>
+      </body>
+   </text>
+</TEI>
